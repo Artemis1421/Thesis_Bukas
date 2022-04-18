@@ -1,0 +1,101 @@
+div.first-box{
+	background: #dddddd;
+	border-radius: 25px;
+	border-style: none;
+	width: 360px;
+}
+div.second-box{
+	background: #dddddd;
+	border-radius: 25px;
+	margin-top: 10px;
+	width: 360px;
+}
+
+input.login-input{
+	padding: 2px 2px;
+	margin: -1px;
+	width: 289px;
+	color: rgb(123, 123, 123);
+	background: #dddddd;
+	border-width: 48px;
+	border-style: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+button.login-button{
+	background: rgb(253, 183, 80);
+	height: 35px;
+	width: 360px;
+	border-radius: 25px;
+	border-style: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	color: rgb(10, 38, 53);
+}
+button.login-nav{
+	background: rgb(253, 183, 80);
+	height: 35px;
+	width: 90px;
+	border-radius: 25px;
+	border-style: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	color: rgb(10, 38, 53);
+}
+p.login-text{
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Advent Pro', sans-serif;
+	margin-top: 6px;
+}
+p.error-text{
+    color: red;
+    margin-top: 10px;
+    margin-left: 65px;
+    min-width: 500px;
+}
+p.user-error-text{
+	color: red;
+    margin-top: 10px;
+    margin-left: 95px;
+    min-width: 500px;
+}
+i.icon-lock{
+	margin: 11px;
+	color: rgb(123,123,123);
+}
+p.success-change{
+	color: green;
+	margin-top:10px;
+	margin-left:40px;
+	min-width:500px;
+}
+p.email-not-exist{
+	color: red;
+    margin-top: 10px;
+    margin-left: 110px;
+    min-width: 500px;
+}
+p.not-match-pw{
+	color: red;
+    margin-top: 10px;
+    margin-left: 10px;
+    min-width: 500px;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}

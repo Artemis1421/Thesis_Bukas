@@ -1,0 +1,53 @@
+button.register-btn{
+	background: rgb(253, 183, 80);
+	height: 35px;
+	width: 90px;
+	border-radius: 25px;
+	border-style: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	color: rgb(10, 38, 53);
+}
+p.regiter-sgnp{
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Advent Pro', sans-serif;
+	margin-top: -87px;
+}
+div.register-box{
+	background: #dddddd;
+	border-radius: 25px;
+	border-style: none;
+	width: 360px;
+
+}
+input.register-npt{
+	padding: 2px 2px;
+	margin: -1px;
+	width: 289px;
+	color: rgb(123, 123, 123);
+	background: #dddddd;
+	border-width: 48px;
+	border-style: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+form.clear-tag{
+	
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
