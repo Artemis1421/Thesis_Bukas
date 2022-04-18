@@ -1,0 +1,43 @@
+a {
+  color: #0A2635;
+}
+
+button {
+  border-style: none;
+  border-color: #ffffff;
+  border-top-style: none;
+  border-top-color: rgb(255,255,255);
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  background: var(--bs-white);
+}
+
+p {
+  margin-top: 16px;
+  margin-left: 5px;
+}
+
+div {
+}
+
+img {
+  width: 159px;
+}
+
+logo {
+  width: 60px;
+}
+
+logo {
+  width: 60px;
+}
+
+img2 {
+  width: 60px;
+}
+
+img2 {
+  width: 60px;
+}
+
